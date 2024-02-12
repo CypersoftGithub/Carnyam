@@ -1066,7 +1066,8 @@ model-viewer {
 }
 .fin-card{
     padding: 40px;
-    background-color: rgba(8, 45, 64, 0.74);
+    /* background-color: linear-gradient(#082d40 0%, #0066ff 100%); */
+    background: linear-gradient(to bottom right, #082d40 10%, #12ea48 90%);
     border-radius: 25px;
     width: 100%;
 }
@@ -1455,6 +1456,9 @@ color: #DB9B1E;
 }
 .pricing-b-g{
     background-color: rgba(8, 45, 64, 0.65);
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 50px;
 }
 .pricing h2 {
     margin-bottom: 20px;
@@ -2041,6 +2045,9 @@ footer ul li a:hover{
 .b-back{
     background: rgba(8, 45, 64, 0.65);
     margin: 100px 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 50px;
 }
 .behind h4{
     padding-top: 10px;
