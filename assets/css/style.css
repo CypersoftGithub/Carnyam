@@ -1455,7 +1455,7 @@ color: #DB9B1E;
     padding: 100px 0px;  
 }
 .pricing-b-g{
-    background: linear-gradient(to bottom right, #082d40 10%, #12ea48 90%);
+    background: linear-gradient(-180deg, #082d40 10%, #12ea48 90%);
     margin-left: 50px;
     margin-right: 50px;
     border-radius: 50px;
